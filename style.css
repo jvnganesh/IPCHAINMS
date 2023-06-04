@@ -1,0 +1,15 @@
+.box {
+  background-color: bisque;
+  color: aliceblue;
+  font-style: italic;
+}
+
+#registration,
+#dashboard,
+#assetRegistration,
+#assetVerification,
+#ownershipTracking,
+#collaborationLicensing,
+#helpSupport {
+  background-color: black;
+}
